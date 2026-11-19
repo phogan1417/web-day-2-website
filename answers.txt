@@ -1,0 +1,9 @@
+PROFILE.HTML
+1.background-color: #0f172
+2. Title is the class the color property is color: #38bdf8
+3.background-color: #0284c7; 
+
+EVENT.HTML
+4. The property is border: and the color of ec4899 is pink
+5. font-size: and  1.8rem is the value
+6. border-radius: 20px;
